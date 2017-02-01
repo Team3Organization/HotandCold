@@ -6,7 +6,7 @@ import { MaterialModule } from '@angular/material';
 
 
 import { AppComponent } from './app.component';
-import { ToolBoxComponent } from './toolbox.component';
+import { ToolBoxComponent } from './components/toolbox/toolbox.component';
 
 @NgModule({
   declarations: [
